@@ -1,0 +1,17 @@
+body
+{
+   padding: 10px;
+   margin: 40px;
+   font-size: 24px;
+   font-family: Helvetica;
+   background-image: url(https://previews.123rf.com/images/tiverylucky/tiverylucky1502/tiverylucky150200136/36503047-hermosa-saturno-p%C3%BArpura-y-estrellas-en-el-universo-.jpg);
+   background-repeat: repeat;
+   color: white;
+}
+ 
+nav
+{
+    background-color: white;
+    padding: 0px;
+    color: #000000;
+}
